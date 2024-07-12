@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on chat Bot which understands user's requirement and gives feedback.<br>👯 I’m looking to collaborate on projects involving machine learning<br>🤝 I’m looking for help with neural networks and Reinforcement learning<br>🌱 I’m currently learning Relational Data  and Node embeddings<br>💬 Ask me about Neural Network and it's implementation.<br>
+🔭 I’m currently working on chat Bot which understands user's requirement and gives feedback.<br>👯 I’m looking to collaborate on projects involving machine learning<br>🤝 I’m looking for help with neural networks and Reinforcement learning<br>🌱 I’m currently learning Relational Data  and Node embeddings<br>💬 Ask me about Neural Networks and it's implementation.<br>
 
 
 ## 🌐 Socials:
